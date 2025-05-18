@@ -44,9 +44,9 @@ python app.py
 ## Screenshots
 
 <p align="center">
-  <img src="assets/screenshot-1.png" alt="Color Detection Screenshot" width="390" style="border-radius: 10px;" />
+  <img src="assets/Screenshot-1.png" alt="Color Detection Screenshot" width="390" style="border-radius: 10px;" />
 </p>
 
 <p align="center">
-  <img src="assets/screenshot-2.png" alt="Color Detection Screenshot" width="600" style="border-radius: 10px;" />
+  <img src="assets/Screenshot-2.png" alt="Color Detection Screenshot" width="600" style="border-radius: 10px;" />
 </p>
